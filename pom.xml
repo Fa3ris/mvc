@@ -11,7 +11,7 @@
 	<!-- PRORPERTIES -->
 	<properties>
 		<java.version>1.8</java.version>
-		<spring.version>5.0.3.RELEASE</spring.version>
+		<spring.version>5.1.0.RELEASE</spring.version>
 		<jstl.version>1.2</jstl.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.build.timestamp.format>yyyy-MM-dd HH:mm:ss</maven.build.timestamp.format>
